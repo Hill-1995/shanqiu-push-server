@@ -1,0 +1,15 @@
+{
+  "name": "shanqiu-push-server",
+  "version": "1.0.0",
+  "description": "Web Push 推送服务器 - 山丘个人助手",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "web-push": "^3.6.7"
+  }
+}
